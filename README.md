@@ -6,9 +6,3 @@
 - git push
 
 　ヒント: スライドの「最初のプログラム」を少し修正するだけでよい．スライドのprintfの書式に説明されている「改行文字」の有無に注意
-#include <stdio.h>
-int main()
-{
-printf("結果は%dです" ，1+3);
-return 0;
-}
