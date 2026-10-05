@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-printf("結果は%dです" ,1+3);
+printf("Hello world");
     return 0;
 }
